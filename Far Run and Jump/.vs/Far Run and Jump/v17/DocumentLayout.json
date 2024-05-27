@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|c:\\users\\usuario\\desktop\\unity programming\\far run and jump\\assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\assets\\_scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\assets\\_scripts\\spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\spin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\assets\\_scripts\\destroyoutbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\destroyoutbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\assets\\_scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\assets\\_scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB195269-33EF-F09D-BB8F-BAFDA02E2A3C}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:57:10.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveLeftX.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:56:34.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwGQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:44:15.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepeatBackgroundX.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:40:03.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Spin.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\Spin.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Spin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\Spin.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Spin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:03:20.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestroyOutBounds.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\DestroyOutBounds.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\DestroyOutBounds.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\DestroyOutBounds.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\DestroyOutBounds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:08:35.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepeatBackground.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\RepeatBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\RepeatBackground.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\RepeatBackground.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\RepeatBackground.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:01:09.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:03:44.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\SpawnManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\SpawnManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:02:53.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoveLeft.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\MoveLeft.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\MoveLeft.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Unity Programming\\Far Run and Jump\\Assets\\_Scripts\\MoveLeft.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\MoveLeft.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:27:58.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
